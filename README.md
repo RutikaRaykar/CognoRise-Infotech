@@ -1,2 +1,0 @@
-# CognoRise-Infotech
-LibraryManagementSystem
